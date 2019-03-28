@@ -1,6 +1,5 @@
 #==================================================================
 ## Title: BUY-ONLINE-PICKUP-INSTORE(BOPS) STRATEGY FOR RETAILERS
-## Submitted by: Arjoo Gangwal, Randall Nguyen, Shraddha Patodi
 #==================================================================
 
 #==================================================================
@@ -11,7 +10,7 @@
 rm(list = ls())
 
 #Setting the working directory
-setwd("/Users/ag/Desktop/BOPS")
+setwd("/Users/sp/Desktop/BOPS")
 
 #Install Packages
 install.packages("readstata13")
